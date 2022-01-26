@@ -1,6 +1,6 @@
 Hi, my name is Qasid Ali and I am a Software Engineering student at Riphah International University.
 <hr/>
-![](https://komarev.com/ghpvc/?username=Qasid-Ali&color=green)
+![](https://komarev.com/ghpvc/?username=Qasid-Ali)
 
 - 🔭 I’m currently working on web development projects.
 - 🌱 I’m currently learning MERN Stack Development. 
