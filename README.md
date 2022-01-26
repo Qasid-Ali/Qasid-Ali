@@ -1,5 +1,12 @@
 Hi, my name is Qasid Ali and I am a Software Engineering student at Riphah International University.
 
+<a href="https://github.com/Qasid-Ali/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qasid-Ali&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Qasid-Ali/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Qasid-Ali&repo=convoychat" />
+</a>
+
 - 🔭 I’m currently working on web development projects.
 - 🌱 I’m currently learning MERN Stack Development. 
 - 👯 I’m looking to collaborate with other Developers 😉
