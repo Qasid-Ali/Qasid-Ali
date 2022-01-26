@@ -1,6 +1,7 @@
-<h2>Hi, my name is Qasid Ali and I am a Software Engineering student at Riphah International University.</h2>
-<hr/>
+<h2>Hi, my name is Qasid Ali </h2>
 
+<h5>I am a Software Engineering student at Riphah International University.</h5>
+<hr/>
 
 - 🔭 I’m currently working on web development projects.
 - 🌱 I’m currently learning MERN Stack Development. 
