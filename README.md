@@ -1,4 +1,4 @@
-Hi, my name is Qasid Ali and I am a Software Engineering student at Riphah International University.
+<h2>Hi, my name is Qasid Ali and I am a Software Engineering student at Riphah International University.</h2>
 <hr/>
 
 
