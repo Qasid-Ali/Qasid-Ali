@@ -10,4 +10,4 @@ Hi, my name is Qasid Ali and I am a Software Engineering student at Riphah Inter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qasid-Ali&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasid-Ali)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasid-Ali&show_icons=true&theme=radical)](https://github.com/Qasid-Ali/github-readme-stats)
