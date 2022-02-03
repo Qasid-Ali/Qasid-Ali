@@ -12,7 +12,7 @@
 </p>
 
 
-<img align="right" height="270px" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.techbabble.zone%2Fhow-to-become-a-software-developer-without-a-cs-degree-or-bootcamp%2F&psig=AOvVaw3hakey5Ofy2pvGtXrTy5KS&ust=1643994927845000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCkyMqE5PUCFQAAAAAdAAAAABAZ" />
+<img align="right" height="270px" alt="GIF" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
 
 - 🔭 I’m currently working on web development projects.
 - 🌱 I’m currently learning MERN Stack Development. 
