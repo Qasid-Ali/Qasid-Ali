@@ -2,7 +2,7 @@
 
 <h5>I am a Software Engineering student at Riphah International University.</h5>
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Qasid Ali" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Qasid-Ali" />
 </p>
 
 <p align="center">
