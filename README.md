@@ -1,10 +1,11 @@
-<h1 align="center">Hi, my name is Qasid Ali </h1>
+<h1 align="center">Hi, my name is Qasid Ali 👋</h1>
 
 <h5>I am a Software Engineering student at Riphah International University.</h5>
-<hr/>
-
 <a href="https://www.linkedin.com/in/qasidali/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:qasidali856@gmail.com?subject=Hola%20Talha"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<hr/>
+
+
 
 
 - 🔭 I’m currently working on web development projects.
