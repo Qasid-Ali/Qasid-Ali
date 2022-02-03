@@ -21,8 +21,10 @@
 - 💬 Ask me about MERN Stack Development or any tech-related stuff.
 - 📫 How to reach me:  Let's get in touch! Email : qasidali856@gmail.com
 
-
+<br/>
+<br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qasid-Ali&show_icons=true&theme=radical)
-
+<br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasid-Ali&show_icons=true&theme=radical)](https://github.com/Qasid-Ali/github-readme-stats)
