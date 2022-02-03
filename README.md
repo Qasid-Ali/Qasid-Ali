@@ -1,8 +1,8 @@
-<h1>Hi, my name is Qasid Ali 👋</h1>
+<h1 align="center">Hi, my name is Qasid Ali 👋</h1>
 
 <h5  align="center">I am a Software Engineering student at Riphah International University.</h5>
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/talha4real" />
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Qasid-Ali" />
 </p>
 
 <p align="center">
