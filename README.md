@@ -4,7 +4,14 @@
 <hr/>
 
 
-<button>Qasid Ali <button/>
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
+
+
 - 🔭 I’m currently working on web development projects.
 - 🌱 I’m currently learning MERN Stack Development. 
 - 👯 I’m looking to collaborate with other Developers 😉
