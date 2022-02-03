@@ -1,9 +1,16 @@
 <h1>Hi, my name is Qasid Ali 👋</h1>
 
 <h5>I am a Software Engineering student at Riphah International University.</h5>
+<p align="center">
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Qasid Ali" />
+</p>
+
+<p align="center">
+<br>
 <a href="https://www.linkedin.com/in/qasidali/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:qasidali856@gmail.com?subject=Hola%20Talha"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 <hr/>
+</p>
 
 
 
@@ -14,8 +21,6 @@
 - 🤔 I’m looking for help with any software engineering related Task.
 - 💬 Ask me about MERN Stack Development or any tech-related stuff.
 - 📫 How to reach me:  Let's get in touch! Email : qasidali856@gmail.com
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
 
