@@ -1,4 +1,4 @@
-<h1 align="center">Hi, my name is Qasid Ali 👋</h1>
+<h1>Hi, my name is Qasid Ali 👋</h1>
 
 <h5>I am a Software Engineering student at Riphah International University.</h5>
 <a href="https://www.linkedin.com/in/qasidali/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
