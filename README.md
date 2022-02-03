@@ -1,15 +1,10 @@
-<h2>Hi, my name is Qasid Ali </h2>
+<h1 align="center">Hi, my name is Qasid Ali </h1>
 
 <h5>I am a Software Engineering student at Riphah International University.</h5>
 <hr/>
 
-
-[1]: http://www.twitter.com/carlsednaoui
-[2]: http://www.facebook.com/sednaoui
-[3]: https://plus.google.com/+CarlSednaoui
-[4]: http://carlsed.tumblr.com
-[5]: http://dribbble.com/carlsednaoui
-[6]: http://www.github.com/carlsednaoui
+<a href="https://www.linkedin.com/in/qasidali/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:qasidali856@gmail.com?subject=Hola%20Talha"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 
 - 🔭 I’m currently working on web development projects.
