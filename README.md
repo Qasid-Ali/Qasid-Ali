@@ -24,7 +24,10 @@
 
 <br/>
 <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qasid-Ali&show_icons=true&theme=radical)
+
 <br/>
 <br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Qasid-Ali&show_icons=true&theme=radical)](https://github.com/Qasid-Ali/github-readme-stats)
