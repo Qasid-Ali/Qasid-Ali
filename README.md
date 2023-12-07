@@ -9,10 +9,10 @@
 <img align="right" height="270px" alt="GIF" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" />
 
 - 🔭 I’m currently working on web development projects.
-- 🌱 I’m currently learning MERN Stack Development. 
+- 🌱 I’m currently learning MERN & MEAN Stack Development. 
 - 👯 I’m looking to collaborate with other Developers 😉
 - 🤔 I’m looking for help with any software engineering-related Task.
-- 💬 Ask me about MERN Stack Development or any tech-related stuff.
+- 💬 Ask me about MERN & MEAN Stack Development or any tech-related stuff.
 - 📫 How to reach me:  Let's get in touch! Email: qasidali856@gmail.com
 
 <br/>
